@@ -1,0 +1,34 @@
+{
+  "name": "SBTNews",
+  "short_name": "SBTNews",
+  "start_url": "https://www.sbtnews.info",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#6cc976",
+  "description": "All news up to date for your live!",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgliySnDcmRCzrjPcaY83PekOFFLolXzSMjCSwZNI98zB5cfMlAFT91cpn38qhwDQwHM7YEoAx73peohmOBXdUVfiMoE2VmrTEnPLNXhlrm_mguClRP42PBpxTaNLSF6EIyVUALlBivqNmXFviXPdu0LGdOhSbgUrwv4q84JmQT6mspualraGWY5Dh5dw",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgb9m0Q_CkPx5BHO1PxsNCMa12WDAl72PXmMDDUJXkR-xgl_7PvLINEYNggj09UdP84YeVO_8rOGGpE6clDBz3sIl8PolesB9zDEFsxR1vHImL3m5FgYUmac7Wg2UdJdH3x2CtrzTfIDlTbDVt6l2QrBJaT3R30fXf7R3t-Fu7S7mPw5BGVuVSR4zPZ0w",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgRSSOHekk3zIqR63rJP1ef3pmeqMdGPgK5F1rSUqFwhIKTk8p5M8V5mc1JSTweRX2oyWT1w2xdJJ4Znpac4kmRo3XP2koVeMzThNTSMcNk_6JBJez2tjkYqDGehOVWBKAC60fmwWExr6DupKGWRwFn6kIPqqQDeJgZ25lFa9ZWJqqG2A8jQgdISPIWpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiISvG4mIQUPVKU0KKRrgBnGxYFwMPXj0gD3Hz2qiD52ATyfTEWJ5O0nQJWRk372N8pLUAzogLqWC4uljfDk8N8NVVpn2XxHji6FVLk6-iLswn9kQ9Gf-MSMBXDQX27t0-tEB1iz3y72N3wdDXSDcMSkVf0FNDEm5x263d9skicGBDIia9xhcuhtAbUXA",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEj7OR--grv2U_foz7jnuxOdBQTPF1ufKPa1gPTSTvS2M28Xgt3kmdAfNPqIV2KceSu2ZBavk3Kjg26HSs46Jr7HnW20e7sfY-aSDqZHZgx6UQObBSlzYD5ftF5KcFIzJnLX2O_dIkMd9b-GhdXYaSDGwVldvxVqMwHxkDZid3KX8XM3mycHoNrfhNeLcQ",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh3l3eFkDgxL2OYU9JRaDgP-6SSeA47UbT_Q3_jJ9h2pnL1SRD88HURqn5IQxb6gCcoJqEFnqkvueOA6bgkdp3mMCnpn0gEJ1xJwmxtVOUo6G_tydFmMywzu_IAB7lEIH_UdfRziPk9IW-Mc5pHxcw4SBff1o9TaAfIrwLkpX_xSKaBETi8uTyiT4aPwQ=s320",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
